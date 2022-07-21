@@ -1,0 +1,58 @@
+#nama{
+    width: 20px;
+    height: 12px;
+}
+#nim{
+    width: 20px;
+    height: 12px;
+}
+#komen
+table{
+
+    border-radius: 2%;
+    box-shadow: 0px 6px 12px #000;
+}
+tr{
+    border-radius: 7%;
+}
+td{
+    width: 60px;
+    border-radius: 7%;
+    font-family: Verdana, Geneva, Tahoma, sans-serif; 
+    font-size: 20px;
+    color: aliceblue;
+    font-weight: bold;
+}
+  
+input[type="button"] 
+{ 
+    height: 50px;
+    background-color:rgb(23, 167, 23);
+    color: white;
+    font-weight: bold;
+    font-size: 22px;
+    width:100% 
+    } 
+.title{ 
+    margin-bottom: 10px;
+    height: 70px; 
+    text-align:center; 
+    border-radius: 2%;
+    background-color:rgb(23, 167, 23); 
+    width: 210px; 
+    color:white; 
+} 
+#result 
+{ 
+    font-size: 22px;
+    border-radius: 7%;
+    background-color:white; 
+    height: 50px;
+    width:100% 
+}
+input[type="button"].ekor{
+    background-color:rgb(218, 23, 23); 
+}
+input[type="button"].kode{
+    background-color:rgb(243, 170, 13); 
+}
